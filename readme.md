@@ -7,7 +7,7 @@ Kode mencakup proses **enkripsi** dan **dekripsi** teks panjang dengan kunci 64-
 
 ## Struktur File
 
-- `Des.m` → File utama untuk menjalankan enkripsi & dekripsi.
+- `DES.m` → File utama untuk menjalankan enkripsi & dekripsi.
 - (Opsional) Tambahkan folder `docs/` atau `data/` jika ada catatan tambahan.
 
 ---
